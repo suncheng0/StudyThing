@@ -3,6 +3,6 @@
 #include <stdio.h>
 using namespace std;
 int main() {
-    cout<<"Hello World!更改后推送"<<endl;
+    cout<<"Hello World!在远程仓库中更改后拉到本地"<<endl;
     return 0;
 }
