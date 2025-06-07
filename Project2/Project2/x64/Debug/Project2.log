@@ -1,0 +1,128 @@
+﻿  源.cpp
+D:\houjie\Project2\Project2\源.cpp(324,8): error C2371: “pItem”: 重定义；不同的基类型
+      D:\houjie\Project2\Project2\源.cpp(316,8):
+      参见“pItem”的声明
+  
+D:\houjie\Project2\Project2\源.cpp(326,13): error C2088: 内置运算符“!=”无法应用于类型为“_InIt”的操作数
+D:\houjie\Project2\Project2\源.cpp(326,13): error C2088:         with
+D:\houjie\Project2\Project2\源.cpp(326,13): error C2088:         [
+D:\houjie\Project2\Project2\源.cpp(326,13): error C2088:             _InIt=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>
+D:\houjie\Project2\Project2\源.cpp(326,13): error C2088:         ]
+D:\houjie\Project2\Project2\源.cpp(327,23): error C2100: 无法取消引用类型为“_InIt”的操作数
+D:\houjie\Project2\Project2\源.cpp(327,23): error C2100:         with
+D:\houjie\Project2\Project2\源.cpp(327,23): error C2100:         [
+D:\houjie\Project2\Project2\源.cpp(327,23): error C2100:             _InIt=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>
+D:\houjie\Project2\Project2\源.cpp(327,23): error C2100:         ]
+D:\houjie\Project2\Project2\源.cpp(327,20): error C2088: 内置运算符“<<”无法应用于类型为“std::basic_ostream<char,std::char_traits<char>>”的操作数
+D:\houjie\Project2\Project2\源.cpp(364,8): error C2371: “pItem”: 重定义；不同的基类型
+      D:\houjie\Project2\Project2\源.cpp(356,8):
+      参见“pItem”的声明
+  
+D:\houjie\Project2\Project2\源.cpp(366,13): error C2088: 内置运算符“!=”无法应用于类型为“_InIt”的操作数
+D:\houjie\Project2\Project2\源.cpp(366,13): error C2088:         with
+D:\houjie\Project2\Project2\源.cpp(366,13): error C2088:         [
+D:\houjie\Project2\Project2\源.cpp(366,13): error C2088:             _InIt=std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const long,std::string>>>>
+D:\houjie\Project2\Project2\源.cpp(366,13): error C2088:         ]
+D:\houjie\Project2\Project2\源.cpp(367,31): error C2100: 无法取消引用类型为“_InIt”的操作数
+D:\houjie\Project2\Project2\源.cpp(367,31): error C2100:         with
+D:\houjie\Project2\Project2\源.cpp(367,31): error C2100:         [
+D:\houjie\Project2\Project2\源.cpp(367,31): error C2100:             _InIt=std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const long,std::string>>>>
+D:\houjie\Project2\Project2\源.cpp(367,31): error C2100:         ]
+D:\houjie\Project2\Project2\源.cpp(367,39): error C2039: "second": 不是 "std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const long,std::string>>>>" 的成员
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xtree(259,7):
+      参见“std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const long,std::string>>>>”的声明
+  
+D:\houjie\Project2\Project2\源.cpp(410,8): error C2371: “pItem”: 重定义；不同的基类型
+      D:\houjie\Project2\Project2\源.cpp(402,8):
+      参见“pItem”的声明
+  
+D:\houjie\Project2\Project2\源.cpp(412,13): error C2088: 内置运算符“!=”无法应用于类型为“_InIt”的操作数
+D:\houjie\Project2\Project2\源.cpp(412,13): error C2088:         with
+D:\houjie\Project2\Project2\源.cpp(412,13): error C2088:         [
+D:\houjie\Project2\Project2\源.cpp(412,13): error C2088:             _InIt=std::_List_const_iterator<std::_List_val<std::_List_simple_types<std::string>>>
+D:\houjie\Project2\Project2\源.cpp(412,13): error C2088:         ]
+D:\houjie\Project2\Project2\源.cpp(413,31): error C2100: 无法取消引用类型为“_InIt”的操作数
+D:\houjie\Project2\Project2\源.cpp(413,31): error C2100:         with
+D:\houjie\Project2\Project2\源.cpp(413,31): error C2100:         [
+D:\houjie\Project2\Project2\源.cpp(413,31): error C2100:             _InIt=std::_List_const_iterator<std::_List_val<std::_List_simple_types<std::string>>>
+D:\houjie\Project2\Project2\源.cpp(413,31): error C2100:         ]
+D:\houjie\Project2\Project2\源.cpp(413,27): error C2088: 内置运算符“<<”无法应用于类型为“std::basic_ostream<char,std::char_traits<char>>”的操作数
+D:\houjie\Project2\Project2\源.cpp(450,8): error C2371: “pItem”: 重定义；不同的基类型
+      D:\houjie\Project2\Project2\源.cpp(442,8):
+      参见“pItem”的声明
+  
+D:\houjie\Project2\Project2\源.cpp(452,13): error C2088: 内置运算符“!=”无法应用于类型为“_InIt”的操作数
+D:\houjie\Project2\Project2\源.cpp(452,13): error C2088:         with
+D:\houjie\Project2\Project2\源.cpp(452,13): error C2088:         [
+D:\houjie\Project2\Project2\源.cpp(452,13): error C2088:             _InIt=std::_List_iterator<std::_List_val<std::_List_simple_types<std::pair<const long,std::string>>>>
+D:\houjie\Project2\Project2\源.cpp(452,13): error C2088:         ]
+D:\houjie\Project2\Project2\源.cpp(453,24): error C2100: 无法取消引用类型为“_InIt”的操作数
+D:\houjie\Project2\Project2\源.cpp(453,24): error C2100:         with
+D:\houjie\Project2\Project2\源.cpp(453,24): error C2100:         [
+D:\houjie\Project2\Project2\源.cpp(453,24): error C2100:             _InIt=std::_List_iterator<std::_List_val<std::_List_simple_types<std::pair<const long,std::string>>>>
+D:\houjie\Project2\Project2\源.cpp(453,24): error C2100:         ]
+D:\houjie\Project2\Project2\源.cpp(453,32): error C2039: "second": 不是 "std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>" 的成员
+D:\houjie\Project2\Project2\源.cpp(453,32): error C2039:         with
+D:\houjie\Project2\Project2\源.cpp(453,32): error C2039:         [
+D:\houjie\Project2\Project2\源.cpp(453,32): error C2039:             _Ty=std::pair<const long,std::string>
+D:\houjie\Project2\Project2\源.cpp(453,32): error C2039:         ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\list(224,7):
+      参见“std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>”的声明
+          with
+          [
+              _Ty=std::pair<const long,std::string>
+          ]
+  
+D:\houjie\Project2\Project2\源.cpp(461,7): error C2084: 函数“void jj06::test_multiset(long &)”已有主体
+      D:\houjie\Project2\Project2\源.cpp(295,7):
+      参见“jj06::test_multiset”的前一个定义
+  
+D:\houjie\Project2\Project2\源.cpp(490,8): error C2371: “pItem”: 重定义；不同的基类型
+      D:\houjie\Project2\Project2\源.cpp(482,8):
+      参见“pItem”的声明
+  
+D:\houjie\Project2\Project2\源.cpp(492,13): error C2088: 内置运算符“!=”无法应用于类型为“_InIt”的操作数
+D:\houjie\Project2\Project2\源.cpp(492,13): error C2088:         with
+D:\houjie\Project2\Project2\源.cpp(492,13): error C2088:         [
+D:\houjie\Project2\Project2\源.cpp(492,13): error C2088:             _InIt=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>
+D:\houjie\Project2\Project2\源.cpp(492,13): error C2088:         ]
+D:\houjie\Project2\Project2\源.cpp(493,23): error C2100: 无法取消引用类型为“_InIt”的操作数
+D:\houjie\Project2\Project2\源.cpp(493,23): error C2100:         with
+D:\houjie\Project2\Project2\源.cpp(493,23): error C2100:         [
+D:\houjie\Project2\Project2\源.cpp(493,23): error C2100:             _InIt=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>
+D:\houjie\Project2\Project2\源.cpp(493,23): error C2100:         ]
+D:\houjie\Project2\Project2\源.cpp(493,20): error C2088: 内置运算符“<<”无法应用于类型为“std::basic_ostream<char,std::char_traits<char>>”的操作数
+D:\houjie\Project2\Project2\源.cpp(530,8): error C2371: “pItem”: 重定义；不同的基类型
+      D:\houjie\Project2\Project2\源.cpp(522,8):
+      参见“pItem”的声明
+  
+D:\houjie\Project2\Project2\源.cpp(532,13): error C2088: 内置运算符“!=”无法应用于类型为“_InIt”的操作数
+D:\houjie\Project2\Project2\源.cpp(532,13): error C2088:         with
+D:\houjie\Project2\Project2\源.cpp(532,13): error C2088:         [
+D:\houjie\Project2\Project2\源.cpp(532,13): error C2088:             _InIt=std::_List_iterator<std::_List_val<std::_List_simple_types<std::pair<const long,std::string>>>>
+D:\houjie\Project2\Project2\源.cpp(532,13): error C2088:         ]
+D:\houjie\Project2\Project2\源.cpp(533,24): error C2100: 无法取消引用类型为“_InIt”的操作数
+D:\houjie\Project2\Project2\源.cpp(533,24): error C2100:         with
+D:\houjie\Project2\Project2\源.cpp(533,24): error C2100:         [
+D:\houjie\Project2\Project2\源.cpp(533,24): error C2100:             _InIt=std::_List_iterator<std::_List_val<std::_List_simple_types<std::pair<const long,std::string>>>>
+D:\houjie\Project2\Project2\源.cpp(533,24): error C2100:         ]
+D:\houjie\Project2\Project2\源.cpp(533,32): error C2039: "second": 不是 "std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>" 的成员
+D:\houjie\Project2\Project2\源.cpp(533,32): error C2039:         with
+D:\houjie\Project2\Project2\源.cpp(533,32): error C2039:         [
+D:\houjie\Project2\Project2\源.cpp(533,32): error C2039:             _Ty=std::pair<const long,std::string>
+D:\houjie\Project2\Project2\源.cpp(533,32): error C2039:         ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\list(224,7):
+      参见“std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>”的声明
+          with
+          [
+              _Ty=std::pair<const long,std::string>
+          ]
+  
+D:\houjie\Project2\Project2\源.cpp(542,15): error C2653: “_gnu_cxx”: 不是类或命名空间名称
+D:\houjie\Project2\Project2\源.cpp(542,25): error C2065: “malloc_allocator”: 未声明的标识符
+D:\houjie\Project2\Project2\源.cpp(542,42): error C2275: “std::string”: 应为表达式而不是类型
+D:\houjie\Project2\Project2\源.cpp(542,2): error C2974: “std::list”:“_Alloc”的 模板 参数无效，应为类型
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\list(755,7):
+      参见“std::list”的声明
+  
+D:\houjie\Project2\Project2\源.cpp(542,48): error C2059: 语法错误:“>”
